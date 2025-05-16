@@ -1,2 +1,4 @@
 # Love-For-You
-This project is a heartfelt expression of my love for you. It features a charming heart animation that symbolizes the warmth and affection I feel for you every day. Crafted with love and dedication, this animation is a small token of my appreciation for your presence in my life.
+"Love-For-You" is a heartfelt and personal web project, created as a digital expression of love and appreciation for my girlfriend. It combines simple but meaningful animations, messages, and optional background to deliver a romantic experience through code.written in HTML, styled with CSS, and brought to life with JavaScript.
+
+
